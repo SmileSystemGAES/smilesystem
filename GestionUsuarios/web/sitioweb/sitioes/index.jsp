@@ -121,7 +121,7 @@ $(document).ready(function() {
 							<div class="avatar">
     								<img src="paciente/imagenes/avatar.png" width="150" style="border-radius: 5pc; padding-top:5px;">
     							</div>
-							<h1 class="h1-session">Pacientes</h1>
+							<h1 class="h1-session">Iniciar Sesión</h1>
 
 							<div class="formularrioodonto">
 								<label for ="txtUsu">Usuario</label>
