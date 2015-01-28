@@ -19,7 +19,7 @@
     <link href="../estilos/css.css" rel="stylesheet" type="text/css">
     <script src="../js/jquery.js"></script>
     <script src="../js/jquery.validate.js"></script>
-    <script src="../js/jquery.validate.js"></script>
+  
 	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
