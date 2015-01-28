@@ -1,0 +1,60 @@
+<html><head>
+<!-- TemplateBeginEditable name="EditRegion2" -->
+<title>proyectoOdontologico</title>
+<!-- TemplateEndEditable -->
+<meta charset="utf-8" />
+<link  href="../estilos/css.css" rel="stylesheet" type="text/css">
+<link href="../estilos/footer.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon"  href="../imagenes/favicon.ico" />
+</head>
+<body>
+
+<!--cabecera-->
+
+<div class="logo">
+
+<!-- TemplateBeginEditable name="EditRegion5" -->
+<div id="idiomas">
+		<a href="../../sitioes/medicos/agendamedico.html">Spanish</a> // <a href="../../sitioen/medicos/agendamedico.html">English</a>
+		</div><!-- TemplateEndEditable -->
+<img src="../imagenes/banner-enviar.jpg" width="100%" height="210" alt="logo"/> </div>
+
+<!--menu-->
+<div class="menu">
+<ul>
+    <li><a href="../inicio.html">Home</a></li>
+    <li><a href="../quienessomos.html">Who are we?</a></li>
+    <li><a href="../servicios.html"> Services</a></li>
+    <li><a href="../Contactenos.html">contact us</a></li>
+    <li><a href="#">employees</a>
+      <ul class="submenu">
+          <li><a href="../medicos/index.html">professional</a></li>
+          <li><a href="../Secre/index.html">administrative</a></li>
+    </ul>
+    </li>
+    <li><a href="../paciente/index.html">Affiliate</a></li>
+     <li><a href="../preguntas.html">concerns</a></li>
+</ul>
+  <div class ="buscador">
+    <form>
+      <input type="text" placeholder="search for"/>
+      <input type="submit" value="search" />
+    </form>
+  </div>
+</div>
+<!--contenido de la página-->
+<div class="contenido"><!-- TemplateBeginEditable name="contenido" --><!-- TemplateEndEditable --> </div>
+<!--fin de página-->
+<div class="pie">
+  <ul>
+    <li  ><a href="http://www.facebook.com"  TARGET='_blank' ><img src="../imagenes/Sin título-4.png"  alt="facebook" width="35" height="35"/></a><a href="http//:facebook.com" TARGET='_blank'></a></li>
+    <li ><a href="http://www.youtube.com/"  TARGET='_blank' ><img  src="../imagenes/Sin título-2.png" alt="youtube" width="35" height="35"/></a><a href="http//:youtube.com" TARGET='_blank'></a></li>
+    <li><a href="http://twitter.com/"  TARGET='_blank' ><img  src="../imagenes/Sin título-1.png" alt="twitter" width="35" height="35"/></a><a href="http//:Twitter.com" TARGET='_blank' ></a></li>
+    <li class="footerli">
+			<a  href="../sitio.html">Diseño del sitio</a><br>
+			<a href="../diccionario/diccionario" TARGET='_blank'>Diccionario de datos</a>
+		</li>
+  </ul>
+</div>
+</body>
+</html>
