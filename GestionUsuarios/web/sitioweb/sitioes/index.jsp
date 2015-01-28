@@ -22,7 +22,7 @@ $(document).ready(function() {
 
 	//codigo para validar que los campos solo sean letras
 	jQuery.validator.addMethod("lettersonly", function(value, element) {
-  return this.optional(element) || /^[a-zA-ZÃ¡Ã©Ã­Ã³ÃºÃ Ã¨Ã¬Ã²Ã¹ÃÃÃÃÃÃÃÃÃÃÃ±ÃÃ¼Ã_\s]+$/i.test(value);
+  return this.optional(element) || /^[a-zA-ZáéíóúàèìòùÀÈÌÒÙÁÉÍÓÚñÑüÜ_\s]+$/i.test(value);
    }, "Digite solo caracteres");
 
     // sirver para validar los campos del formulario
